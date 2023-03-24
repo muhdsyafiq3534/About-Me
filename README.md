@@ -64,7 +64,7 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 <p>
  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhdsyafiq3534&show_icons=true&locale=en" alt="muhdsyafiq3534" 
-              style="width:500px;height:600px;"/>
+              style="width:400px;height:500px;"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhdsyafiq3534&" alt="muhdsyafiq3534" />
 
 </p>
