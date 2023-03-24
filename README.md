@@ -14,10 +14,7 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muhdsyafiq3534)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_muhdsyafiqq/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>](https://muhdsyafiq3534.github.io/syafiqsahli.github.io/)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=bl8e1ym8q3s5chg88fnfc3zqk&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=bl8e1ym8q3s5chg88fnfc3zqk&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bl8e1ym8q3s5chg88fnfc3zqk&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bl8e1ym8q3s5chg88fnfc3zqk&redirect=true)
 
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
 
