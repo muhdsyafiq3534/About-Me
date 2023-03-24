@@ -53,7 +53,7 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 
 ### 📲 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-syafiq-sahli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad syafiq sahli" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/muhammad-syafiq-sahli](https://www.linkedin.com/in/muhammad-syafiq-sahli-a748b0229/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad syafiq sahli" height="30" width="40" /></a>
 <a href="https://instagram.com/_muhdsyafiqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_muhdsyafiqq" height="30" width="40" /></a>
 </p>
 
