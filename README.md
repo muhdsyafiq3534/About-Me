@@ -15,8 +15,6 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhdsyafiq3534)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhdsyafiq3534)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhdsyafiq3534&show_icons=true&count_private=true&theme=radical)  
 
 <!---
