@@ -19,8 +19,6 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhdsyafiq3534&show_icons=true&count_private=true&theme=radical)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhdsyafiq3534)  
-
 <!---
 muhdsyafiq3534/muhdsyafiq3534 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
