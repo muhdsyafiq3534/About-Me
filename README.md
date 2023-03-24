@@ -16,7 +16,9 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 
 ### :fire: My Stats :
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhdsyafiq3534&show_icons=true&count_private=true&theme=radical)&nbsp;&nbsp;  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhdsyafiq3534&theme=radical)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhdsyafiq3534&show_icons=true&count_private=true&theme=radical)&nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhdsyafiq3534&theme=radical)](https://git.io/streak-stats)
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhdsyafiq3534&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
