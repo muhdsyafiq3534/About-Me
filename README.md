@@ -39,12 +39,12 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 </div>
 
 <br>
+
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
 
 
 ---
 
-### :writing_hand: Activity :
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bl8e1ym8q3s5chg88fnfc3zqk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bl8e1ym8q3s5chg88fnfc3zqk&redirect=true)
 
 <!---
