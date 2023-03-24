@@ -2,7 +2,6 @@
 <!-- ![](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
  -->
 ![Snake animation](https://github.com/muhdsyafiq3534/muhdsyafiq3534/blob/output/github-contribution-grid-snake.svg)
-Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 
 ---
 
@@ -13,6 +12,7 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 - 💬 This is my portfolio https://muhdsyafiq3534.github.io/syafiqsahli.github.io/ 
 - 📫 How to reach me: muhdsyafiq3534@gmail.com 
 
+Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 ---
 
 ### :fire: My Stats :
