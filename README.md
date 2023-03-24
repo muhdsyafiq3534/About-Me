@@ -12,6 +12,10 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 - 💬 This is my portfolio https://muhdsyafiq3534.github.io/syafiqsahli.github.io/ 
 - 📫 How to reach me: muhdsyafiq3534@gmail.com 
 
+---
+
+### :fire: My Stats :
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhdsyafiq3534&show_icons=true&count_private=true&theme=radical)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhdsyafiq3534&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
