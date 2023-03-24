@@ -3,6 +3,7 @@
 
 Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 
+- :telescope: I’m working as a IT Programmer and contributing to frontend and backend for building web applications.
 - 🌱 I’m currently learning C#, .Net , Angular 
 - 💬 This is my portfolio https://muhdsyafiq3534.github.io/syafiqsahli.github.io/ 
 - 📫 How to reach me: muhdsyafiq3534@gmail.com 
