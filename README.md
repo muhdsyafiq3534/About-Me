@@ -20,11 +20,16 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 
 ### :fire: My Stats :
 
+<div align="center">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhdsyafiq3534&show_icons=true&count_private=true&theme=radical)&nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhdsyafiq3534&theme=radical)](https://git.io/streak-stats)
 
 <!-- ![Snake animation](https://github.com/muhdsyafiq3534/muhdsyafiq3534/blob/output/github-contribution-grid-snake.svg) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhdsyafiq3534&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 
 ---
 
@@ -60,9 +65,6 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bl8e1ym8q3s5chg88fnfc3zqk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bl8e1ym8q3s5chg88fnfc3zqk&redirect=true)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhdsyafiq3534&show_icons=true&locale=en" alt="muhdsyafiq3534" style="width:300px;height:400px;" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhdsyafiq3534&" alt="muhdsyafiq3534" />
-
 
 <!---
 muhdsyafiq3534/muhdsyafiq3534 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
