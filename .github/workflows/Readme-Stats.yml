@@ -14,7 +14,7 @@ jobs:
     - name: Profile Readme Stats
       uses: teoxoy/profile-readme-stats@v2
       with:
-        token: ${{ secrets.USER_TOKEN }}
+        token: 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
     - name: Update README.md
       run: |
         git add .
