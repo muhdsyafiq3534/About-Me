@@ -46,7 +46,14 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 <br>
 
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhdsyafiq3534&label=Profile%20views&color=0e75b6&style=flat" alt="muhdsyafiq3534" /> </p>
 
+
+---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_muhdsyafiqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_muhdsyafiqq" height="30" width="40" /></a>
+</p>
 
 ---
 
