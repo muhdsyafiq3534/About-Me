@@ -8,6 +8,7 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 - 💬 This is my portfolio https://muhdsyafiq3534.github.io/syafiqsahli.github.io/ 
 - 📫 How to reach me: muhdsyafiq3534@gmail.com 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhdsyafiq3534&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muhdsyafiq3534)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_muhdsyafiqq/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>](https://muhdsyafiq3534.github.io/syafiqsahli.github.io/)  
 
