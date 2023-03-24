@@ -1,7 +1,6 @@
-<!-- ### Hi there 👋, my name is Muhammad Syafiq Sahli -->
+### Hi there 👋, my name is Muhammad Syafiq Sahli
 <!-- ![](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
  -->
-<h1 align="center">Hi 👋, I'm Syafq Sahli</h1>
  
 Watch Snake eating my contribution graph
 ![Snake animation](https://github.com/muhdsyafiq3534/muhdsyafiq3534/blob/output/github-contribution-grid-snake.svg)
