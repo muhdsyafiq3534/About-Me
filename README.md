@@ -14,7 +14,7 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muhdsyafiq3534)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_muhdsyafiqq/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>](https://muhdsyafiq3534.github.io/syafiqsahli.github.io/)  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bl8e1ym8q3s5chg88fnfc3zqk&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bl8e1ym8q3s5chg88fnfc3zqk&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bl8e1ym8q3s5chg88fnfc3zqk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bl8e1ym8q3s5chg88fnfc3zqk&redirect=true)
 
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
 
