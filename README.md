@@ -13,6 +13,7 @@
 - 📫 How to reach me: muhdsyafiq3534@gmail.com 
 
 Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
+
 ---
 
 ### :fire: My Stats :
@@ -23,7 +24,6 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhdsyafiq3534&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muhdsyafiq3534)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_muhdsyafiqq/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>](https://muhdsyafiq3534.github.io/syafiqsahli.github.io/)  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
