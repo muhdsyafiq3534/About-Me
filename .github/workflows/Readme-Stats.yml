@@ -3,6 +3,7 @@ on:
     - cron: '0 */12 * * *' # every 12 hours
   push:
     branches:
+      - master
       - main
 jobs:
   publish:
@@ -11,10 +12,10 @@ jobs:
     - uses: actions/checkout@v3
       with:
         fetch-depth: 0
-    - name: Profile Readme Stats
+    - name: Generate README.md
       uses: teoxoy/profile-readme-stats@v2
       with:
-        token: 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
+        token: ${{ secrets.USER_TOKEN }}
     - name: Update README.md
       run: |
         git add .
