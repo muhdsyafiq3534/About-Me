@@ -7,6 +7,7 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 - 🌱 I’m currently learning C#, .Net , Angular 
 - 💬 This is my portfolio https://muhdsyafiq3534.github.io/syafiqsahli.github.io/ 
 - 📫 How to reach me: muhdsyafiq3534@gmail.com 
+- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/muhammad-syafiq-sahli-a748b0229/))
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhdsyafiq3534&show_icons=true&count_private=true&theme=radical)  
 
