@@ -64,7 +64,11 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bl8e1ym8q3s5chg88fnfc3zqk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bl8e1ym8q3s5chg88fnfc3zqk&redirect=true)
+<div align="left">
+ 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bl8e1ym8q3s5chg88fnfc3zqk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bl8e1ym8q3s5chg88fnfc3zqk&redirect=true)
+ 
+</div>
 
 <!---
 muhdsyafiq3534/muhdsyafiq3534 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
