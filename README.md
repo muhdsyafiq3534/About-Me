@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Muhammad Syafiq Sahli
-<!-- ![](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
- -->
- 
+
 Watch Snake eating my contribution graph
 ![Snake animation](https://github.com/muhdsyafiq3534/muhdsyafiq3534/blob/output/github-contribution-grid-snake.svg)
 
@@ -23,8 +21,6 @@ Skills: C# / .Net / Angular/ TypeScript / HTML / CSS / MSSQL
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhdsyafiq3534&show_icons=true&count_private=true&theme=radical)&nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhdsyafiq3534&theme=radical)](https://git.io/streak-stats)
-
-<!-- ![Snake animation](https://github.com/muhdsyafiq3534/muhdsyafiq3534/blob/output/github-contribution-grid-snake.svg) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhdsyafiq3534&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
